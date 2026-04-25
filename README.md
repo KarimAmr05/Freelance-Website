@@ -104,6 +104,7 @@ Payment Controller
  ✔ Create payment missing account fails for paypal
  ✔ Complete payment by client succeeds and updates earnings
 
+OK (13 tests, 48 assertions)
 ```
 
 ## How to Export Test Output for Documentation
