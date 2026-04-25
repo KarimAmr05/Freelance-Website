@@ -5,7 +5,7 @@ This is a clean, modern freelancer job board platform with full admin management
 
 ## Project Structure
 ```
-SWE_PROJECT/
+Freelance-Website/
 ├── app/
 │   ├── controllers/      # MVC controllers (Admin, Auth, Job, Payment, etc.)
 │   ├── models/           # Data models
@@ -39,7 +39,7 @@ SWE_PROJECT/
    ```powershell
    & 'C:\xampp\php\php.exe' 'C:\xampp\php\composer.phar' install
    ```
-4. **Run locally**: Visit http://localhost/SWE_PROJECT
+4. **Run locally**: Visit http://localhost/Freelance-Website
 
 ## Running Tests
 1. **Run all tests**:
@@ -104,7 +104,6 @@ Payment Controller
  ✔ Create payment missing account fails for paypal
  ✔ Complete payment by client succeeds and updates earnings
 
-OK (13 tests, 48 assertions)
 ```
 
 ## How to Export Test Output for Documentation
