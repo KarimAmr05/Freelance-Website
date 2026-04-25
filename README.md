@@ -129,7 +129,6 @@ OK (13 tests, 48 assertions)
 - For issues or contributions, open a GitHub issue or PR.
 
 ---
-**Project maintained by [Your Name/Team].**
 
 The platform is fully responsive and works on:
 - Desktop computers
